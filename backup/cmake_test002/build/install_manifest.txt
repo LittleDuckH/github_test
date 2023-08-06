@@ -1,0 +1,4 @@
+/tmp/cmake_test002/usr/share/doc/cmake/cmake_test002/COPYRIGHT
+/tmp/cmake_test002/usr/share/doc/cmake/cmake_test002/README
+/tmp/cmake_test002/usr/bin/runhello.sh
+/tmp/cmake_test002/usr/share/doc/cmake/cmake_test002/hello.txt

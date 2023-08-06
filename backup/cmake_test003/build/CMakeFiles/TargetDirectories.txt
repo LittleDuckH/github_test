@@ -1,0 +1,6 @@
+/home/huang/桌面/cmake_learn/backup/cmake_test003/build/CMakeFiles/rebuild_cache.dir
+/home/huang/桌面/cmake_learn/backup/cmake_test003/build/CMakeFiles/edit_cache.dir
+/home/huang/桌面/cmake_learn/backup/cmake_test003/build/CMakeFiles/main.dir
+/home/huang/桌面/cmake_learn/backup/cmake_test003/build/lib/CMakeFiles/rebuild_cache.dir
+/home/huang/桌面/cmake_learn/backup/cmake_test003/build/lib/CMakeFiles/edit_cache.dir
+/home/huang/桌面/cmake_learn/backup/cmake_test003/build/lib/CMakeFiles/hello.dir

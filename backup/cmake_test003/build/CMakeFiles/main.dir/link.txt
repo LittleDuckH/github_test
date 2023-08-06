@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/main.dir/main.o  -o main  -Wl,-rpath,/home/huang/桌面/cmake_learn/backup/cmake_test003/build/lib lib/libhello.so 
