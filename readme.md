@@ -16,6 +16,8 @@ git commit -m "上传名字(main)"
 
 git branch -m 要改的名字
 
+git lfs install（100mb以上使用）
+
 git push -u origin [分支名字]
 
 https://blog.csdn.net/scarecrow_sun/article/details/129178198?ops_request_misc=&request_id=&biz_id=102&utm_term=ros2%20humble%20serial&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-6-129178198.142^v92^chatsearchT0_1&spm=1018.2226.3001.4187
