@@ -24,6 +24,8 @@ git lfs install（100mb以上使用）
 
   git config --global --get https.proxy
 
+  git pull --rebase origin main # 远程内容进行合并
+
 }
 
 git push -u origin [分支名字]
