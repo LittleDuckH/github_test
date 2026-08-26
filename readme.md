@@ -19,9 +19,11 @@ git branch -m 要改的名字
 git lfs install（100mb以上使用）
 
 {
+
   git config --global --get http.proxy
 
   git config --global --get https.proxy
+
 }
 
 git push -u origin [分支名字]
